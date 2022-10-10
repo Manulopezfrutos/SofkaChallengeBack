@@ -1,0 +1,17 @@
+{
+  "name": "json-server",
+  "version": "1.0.0",
+  "description": "Simple json database backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "sofka challenge, simple backend"
+  ],
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
