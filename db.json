@@ -1,5 +1,24 @@
 {
-  "ShuttleVehicles":[],
+  "ShuttleVehicles":[
+    {
+      "id": 0,
+      "name": "Saturno V",
+      "velocity": 100,
+      "isActive": false
+    },
+    {
+      "id": 1,
+      "name": "Energy",
+      "velocity": 95,
+      "isActive": false
+    },
+    {
+      "id": 2,
+      "name": "Falcon IX",
+      "velocity": 500,
+      "isActive": true
+    }
+  ],
   "UnmannedShip" : [],
   "MannedShips" : []
 }
