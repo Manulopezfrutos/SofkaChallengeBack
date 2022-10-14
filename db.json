@@ -1,5 +1,5 @@
 {
-  "ShuttleVehicles":[
+  "ShuttleVehicles": [
     {
       "id": 0,
       "name": "Saturno V",
@@ -19,6 +19,44 @@
       "isActive": true
     }
   ],
-  "UnmannedShip" : [],
-  "MannedShips" : []
+  "UnmannedShip": [
+    {
+      "name": "Galileo",
+      "velocity": "50",
+      "panelsDeployed": "true",
+      "id": 1
+    },
+    {
+      "name": "New horizon",
+      "velocity": "60",
+      "panelsDeployed": "true",
+      "id": 2
+    },
+    {
+      "name": "Venera IX",
+      "velocity": "80",
+      "panelsDeployed": "false",
+      "id": 3
+    }
+  ],
+  "MannedShips": [
+    {
+      "name": "Apolo",
+      "velocity": "1000",
+      "crewPresent": "3",
+      "id": 1
+    },
+    {
+      "name": "Voskhod",
+      "velocity": "500",
+      "crewPresent": "5",
+      "id": 2
+    },
+    {
+      "name": "Mir",
+      "velocity": "800",
+      "crewPresent": "6",
+      "id": 3
+    }
+  ]
 }
